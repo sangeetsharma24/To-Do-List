@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "this is the version 1 of our to do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeetsharma24/To-Do-List.git"
+  },
+  "author": "Sangeet Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangeetsharma24/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/sangeetsharma24/To-Do-List#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
